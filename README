@@ -1,0 +1,19 @@
+Torrinfo
+============
+
+Simple python script to show details about a torrentfile
+
+Reqs:
+ - Python >= ??? (tested on 2.6.5)
+
+
+Usage:
+ torrinfo file.torrent
+
+
+Tips:
+ - Put in PATH to run from anywhere
+
+
+Acks:
+ - Uses bencode features from official BitTorrent Inc client by Bram Cohen
